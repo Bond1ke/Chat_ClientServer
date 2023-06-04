@@ -1,0 +1,52 @@
+Message request received:
+Sender - Server
+Time - 22:46:02
+Message - Client Dave connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 22:46:03
+Message - Client Alex connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 22:46:03
+Message - Client Dima connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client Alex disconnected from the server
+***********************************************
+
+
+Client Dima disconnected from the server
+***********************************************
+
+
+Client Dave disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 22:46:54
+Message - Client Alex connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client Alex disconnected from the server
+***********************************************
+
+

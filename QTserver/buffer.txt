@@ -1,0 +1,477 @@
+Client ahahaha disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 03:47:03
+Message - Client Георгий connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Георгий
+Time - 03:47:09
+Message - Виктор молодец
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Георгий
+Time - 03:47:15
+Message - !list
+Recipient - all
+
+Result of the command !list: 
+1.0x1e5277588a0-Георгий
+Message was successfully sent.
+***********************************************
+
+
+Client Георгий disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 03:47:25
+Message - Client Георгий connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Георгий
+Time - 03:47:32
+Message - кто я
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Георгий
+Time - 03:47:35
+Message - !list
+Recipient - all
+
+Result of the command !list: 
+1.0x1e5277589a0-Георгий
+Message was successfully sent.
+***********************************************
+
+
+Client Георгий disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 03:52:13
+Message - Client лро connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 10:57:59
+Message - Client asbdajf connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client asbdajf disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 10:58:02
+Message - Client asbdajf connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client asbdajf disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 10:59:40
+Message - Client JDFHJSDFH connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - JDFHJSDFH
+Time - 10:59:47
+Message - !list
+Recipient - all
+
+Result of the command !list: 
+1.0x20b545eca10-JDFHJSDFH
+Message was successfully sent.
+***********************************************
+
+
+Client JDFHJSDFH disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:00:05
+Message - Client JDFHJSDFH connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client JDFHJSDFH disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:19:54
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:20:19
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - aboba
+Time - 11:20:27
+Message - hi
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:20:46
+Message - Client @alex connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - aboba
+Time - 11:20:54
+Message - @alex hi
+Recipient - alex
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - aboba
+Time - 11:21:03
+Message - @@alex hi
+Recipient - alex
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:30:37
+Message - Client АВГУСТИНА228 connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - АВГУСТИНА228
+Time - 11:30:40
+Message - !list
+Recipient - all
+
+Result of the command !list: 
+1.0x19c4afcaf20-АВГУСТИНА228
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - АВГУСТИНА228
+Time - 11:30:58
+Message - @АВГУСТИНА
+Recipient - АВГУСТИНА
+Message was successfully sent.
+***********************************************
+
+
+Client АВГУСТИНА228 disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:37:50
+Message - Client arduino connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:44:20
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:44:57
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:45:03
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - aboba
+Time - 11:45:07
+Message - !list
+Recipient - all
+
+Result of the command !list: 
+1.0x150e84fac40-aboba
+2.0x150e84fad40-aboba
+Message was successfully sent.
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:45:36
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:45:37
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:45:38
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - aboba
+Time - 11:45:41
+Message - !list
+Recipient - all
+
+Result of the command !list: 
+1.0x150e84fae80-aboba
+2.0x150e84faea0-aboba
+3.0x150e84faf20-aboba
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - aboba
+Time - 11:45:44
+Message - @aboba hi
+Recipient - aboba
+Message was successfully sent.
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:47:06
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:47:07
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - aboba
+Time - 11:47:23
+Message - nieneienienie
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:47:41
+Message - Client aboba connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Client aboba disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 11:59:09
+Message - Client hghg connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client hghg disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 15:02:56
+Message - Client iysgrsiuygtktg connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - iysgrsiuygtktg
+Time - 15:03:12
+Message - !list
+Recipient - all
+
+Result of the command !list: 
+1.0x266ee12ac80-iysgrsiuygtktg
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - iysgrsiuygtktg
+Time - 15:03:17
+Message - ldfng
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client iysgrsiuygtktg disconnected from the server
+***********************************************
+
+
+Message request received:
+Sender - Server
+Time - 17:11:55
+Message - Client орп connected to the server
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Message request received:
+Sender - орп
+Time - 17:12:01
+Message - sdfsdfsd
+Recipient - all
+Message was successfully sent.
+***********************************************
+
+
+Client орп disconnected from the server
+***********************************************
+
+
